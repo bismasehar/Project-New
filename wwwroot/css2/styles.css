@@ -1,0 +1,779 @@
+/* General styles */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header Styles */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    .header h1 a {
+        color: white;
+        text-decoration: none;
+        font-size: 45px;
+    }
+
+    .header nav ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+        .header nav ul li {
+            display: inline;
+            margin: 0 15px;
+            font-size: 23px;
+        }
+
+            .header nav ul li a {
+                color: white;
+                text-decoration: none;
+            }
+
+nav ul li a:hover,
+nav ul li a:focus {
+    color: black;
+}
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    footer p {
+        margin: 0;
+    }
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #333, #555);
+    color: #fff;
+    text-align: center;
+    padding: 60px 20px;
+    position: relative;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+    .hero h2 {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .hero p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+/* Services Section */
+#services {
+    background-color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.service-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    justify-items: center;
+}
+
+.service-card {
+    width: 90%;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .service-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+
+    .service-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+
+    .service-card h3 {
+        text-align: center;
+        margin-top: 15px;
+        font-size: 26px;
+    }
+
+    .service-card ul {
+        padding-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+    }
+
+    .service-card li {
+        font-size: 19px;
+        margin-top: 5px 0;
+        padding: 2px;
+    }
+/* Project Section */
+
+#MainProjects {
+    background-color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.project-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-text h1 {
+    font-size: 38px;
+}
+
+.ptoject-text p {
+    font-size: 30px;
+}
+
+.project-button {
+    padding: 10px 30px;
+    background-color: #fd8559;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 27px;
+    width: 350px;
+    text-align: center;
+}
+
+    .project-button:hover {
+        background-color: #ff6347;
+    }
+
+.project-image {
+    width: 750px;
+    height: 400px;
+    margin-right: 44px;
+    margin-top: 29px;
+    margin-bottom: 13px;
+}
+
+
+@media (max-width: 768px) {
+    .cta-button, .project-button, button {
+        width: auto;
+        margin: 0 auto;
+    }
+}
+
+.about-section {
+    margin-top: 40px;
+    text-align: center;
+}
+
+/Project part Section/
+.project-part {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+}
+
+.project-part h1 {
+    text-align: center;
+    font-size: 33px;
+}
+
+.back-button {
+    background-color: #fd8559;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+}
+
+    .back-button:hover {
+        background-color: #ff6347;
+    }
+
+.project-part h1 {
+    text-align: center;
+    font-size: 44px;
+    margin-bottom: 22px;
+}
+
+.projects-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    justify-items: center;
+}
+
+.project-card {
+    width: 90%;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+    .project-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        text-align: center;
+    }
+
+    .project-card h3 {
+        margin-top: 5px;
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .project-card p {
+        margin-top: 5px;
+        font-size: 21x;
+    }
+
+.hidden {
+    display: none;
+}
+
+.intro-container h1 {
+    text-align: center;
+    font-size: 45px;
+    color: black;
+}
+
+.intro-container p {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+}
+
+.carousel-item.active {
+    background-color: rgb(112, 212, 212);
+    height: 700px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/* Contact Section */
+#contact {
+    background: linear-gradient(to right, #eaeaea, #ffffff);
+    padding: 40px 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+    #contact h2 {
+        color: #333;
+        font-size: 2rem;
+    }
+
+#contactForm {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+    #contactForm label {
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    #contactForm input, #contactForm textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+        transition: border-color 0.3s, box-shadow 0.3s;
+    }
+
+        #contactForm input:hover, #contactForm textarea:hover {
+            border-color: #888;
+        }
+
+        #contactForm input:focus, #contactForm textarea:focus {
+            border-color: #555;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+        }
+
+    #contactForm button {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s, transform 0.2s;
+        margin: 0 auto;
+        width: 223px;
+        font-size: 22px;
+    }
+
+        #contactForm button:hover {
+            background-color: #555;
+            transform: scale(1.05);
+        }
+/* Location Section */
+#location {
+    background: linear-gradient(to right,black, #c2e9fb);
+    padding: 40px 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+    #location:hover {
+        transform: translateY(-5px);
+    }
+
+/* Map Container with Light Theme */
+#map-container {
+    background-color: #f9f9f9;
+    border: 3px solid #4CAF50;
+    overflow: hidden;
+    padding: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+    #map-container:hover {
+        transform: scale(1.05);
+    }
+
+    #map-container iframe {
+        width: 100%;
+        height: 300px;
+        border: none;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+#location p {
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 27px;
+}
+/* Social Media Section */
+#social {
+    background: #f2f2f2;
+    padding: 40px 10px;
+    margin: 15px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+    #social .social-links {
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        margin-top: 20px;
+    }
+
+        #social .social-links img {
+            transition: transform 0.3s ease;
+            cursor: pointer;
+        }
+
+            #social .social-links img:hover {
+                transform: scale(1.2);
+            }
+
+.team-members {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+/* Call to Action  Section in home */
+#cta {
+    background-color: #3b3b3b;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+    #cta h2 {
+        font-size: 33px;
+        margin-bottom: 20px;
+    }
+
+    #cta p {
+        font-size: 21px;
+        margin-bottom: 30px;
+    }
+/* CTA Section in about */
+.cta {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 50px 0;
+}
+
+    .cta h1 {
+        font-size: 39px;
+        margin-bottom: 20px;
+    }
+
+    .cta p {
+        font-size: 21px;
+    }
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fd8559;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    margin: 0 auto;
+    text-align: center;
+}
+
+    .cta-button:hover {
+        background-color: #ff6347;
+        transform: scale(1.1);
+    }
+
+.cta img {
+    width: 650px;
+    height: 411px;
+    object-fit: cover;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-item {
+    overflow: hidden;
+}
+
+    .carousel-item img {
+        transition: transform 0.5s ease;
+        display: inline-block;
+    }
+
+    .carousel-item:hover img {
+        transform: scale(1.2);
+    }
+
+.carousel-control-prev,
+.carousel-control-next {
+    display: inline-block;
+}
+
+
+/* Milestones Section */
+.milestones {
+    padding: 50px 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+/* General Table Styling */
+.milestones-table {
+    font-size: 17px;
+    text-align: center;
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+    .milestones-table thead tr {
+        background-color: #333;
+        color: white;
+        text-transform: uppercase;
+        font-size: 25px;
+    }
+
+    .milestones-table tbody tr:nth-child(odd) {
+        background-color: #f9f9f9;
+    }
+
+    .milestones-table tbody tr:nth-child(even) {
+        background-color: #fff;
+    }
+
+    .milestones-table tbody tr:hover {
+        background-color: #e0e0e0;
+    }
+
+    .milestones-table th, .milestones-table td {
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+
+.milestone-image {
+    width: 80%;
+    max-height: 300px;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+    .team-members {
+        flex-direction: column;
+    }
+
+    .service-cards {
+        grid-template-columns: 1fr;
+    }
+}
+/* Value Section*/
+
+.value-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    justify-items: center;
+}
+
+.values-card {
+    width: 90%;
+    background-color: #fff;
+    height: 380px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+    .values-card img {
+        width: 100%;
+        height: 200px;
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    .values-card h3 {
+        margin-top: 5px;
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .values-card p {
+        margin-top: 5px;
+        text-align: center;
+        font-size: 16x;
+    }
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .about-image,
+    .mission-image,
+    .value-image {
+        width: 100%;
+        float: none;
+        margin: 0;
+    }
+
+    .cta-image {
+        width: 100%;
+    }
+}
+/* General Image Styling */
+img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    img:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+    }
+
+/* Header Image Styling */
+#mission img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.header-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+/* Missiom Section*/
+#mission {
+    padding: 50px 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+    #mission h1 {
+        font-size: 45px;
+        margin-bottom: 20px;
+        color: #000;
+        text-align: center;
+    }
+
+    #mission p {
+        font-size: 21px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+
+.about-image {
+    width: 50%;
+    object-fit: cover;
+    margin-left: 270px;
+    border-radius: 8px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .about-image,
+    .mission-image,
+    .value-image {
+        width: 100%;
+        float: none;
+        margin: 0;
+    }
+
+    .cta-image {
+        width: 100%;
+    }
+
+    .team-photo {
+        width: 100%;
+    }
+
+    .milestone-image {
+        width: 100%;
+        /
+    }
+}
+
+/* About Section */
+.about {
+    text-align: center;
+    padding: 50px 0;
+}
+
+    .about h2 {
+        font-size: 45px;
+        margin-bottom: 20px;
+        color: #000;
+        text-align: center;
+    }
+
+    .about p {
+        font-size: 21px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+/* Team Section */
+.team {
+    padding: 50px 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.team-members {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.team-member {
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team-photo {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.team h1 {
+    margin-top: 15px;
+}
+
+
+/* Mobile View Adjustments */
+@media (max-width: 768px) {
+    .values-gallery {
+        flex-direction: column;
+    }
+
+    .value-card {
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    .team-member {
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    .team-photo {
+        width: 150px;
+        height: 150px;
+    }
+}

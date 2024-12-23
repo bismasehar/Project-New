@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+
+<body>
+ <header class="header">
+        <div class="container">
+            <h1><a href="\Home\Index" style="color:white;text-decoration: none;">Architect Vision</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="/Architecture/Index">Home</a></li>
+                    <li><a href="/Architecture/about">About Us</a></li>
+                    <li><a href="/Architecture/Project">Project</a></li>
+                    <li><a href="/Architecture/contact">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+
+    <div id="carouselExampleInterval" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="1000">
+                <img src="~/Images/pics.jpg" class="d-block w-100" alt="animation">
+            </div>
+            <div class="carousel-item" data-bs-interval="1000">
+                <img src="~/Images/IA6.webp" class="d-block w-100" alt="animation">
+            </div>
+            <div class="carousel-item" data-bs-interval="1000">
+                <img src="~/Images/blue.jpg" class="d-block w-100" alt="animation">
+            </div>
+            <div class="carousel-item" data-bs-interval="1000">
+                <img src="~/Images/occean.jpg" class="d-block w-100" alt="animation">
+            </div>
+            <div class="carousel-item" data-bs-interval="1000">
+                <img src="~/Images/Masjid.jpg" class="d-block w-100" alt="animation">
+            </div>
+            <div class="carousel-item" data-bs-interval="1000">
+                <img src="~/Images/blue.jpg" class="d-block w-100" alt="animation">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <br>
+    <br>
+    <!-- Introduction Section -->
+    <div class="intro-container">
+        <h1>About Architect Vision</h1>
+        <p>At Architect Vision, we are dedicated to creating innovative and sustainable architectural designs that cater to the unique needs of our clients. Our experienced team of architects and designers collaborates closely with you to bring your vision to life, ensuring that every project reflects your personal style and functional requirements.</p>
+        <p>We pride ourselves on being a forward-thinking architectural firm that emphasizes sustainability, functionality, and aesthetic appeal. Our multidisciplinary approach allows us to create spaces that not only fulfill your needs but also enhance the surrounding environment.</p>
+        <p>We believe in the transformative power of design, making every project a unique masterpiece that enriches lives and communities. Whether it's residential, commercial, or public spaces, we strive to deliver exceptional results that exceed expectations.</p>
+    </div>
+    <br>
+    <br>
+    <section class="cta">
+        <div class="container">
+            <h1>Learn more about us</h1>
+            <p>Whether you’re looking to design your dream home, a modern office, or a vibrant commercial space, we invite you to explore our "About Us" page to learn more about our approach, values, and the unique services we offer.</p>
+            <br>
+            <a href="/Architecture/about" class="cta-button">About us</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Architect Vision. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+

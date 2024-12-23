@@ -1,0 +1,72 @@
+﻿<body>
+    <header class="header">
+        <div class="container">
+            <h1><a href="/Architecture/Index" style="color:white;text-decoration: none;">Architect Vision</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="/Architecture/Index">Home</a></li>
+                    <li><a href="/Architecture/about">About Us</a></li>
+                    <li><a href="/Architecture/Project">Project</a></li>
+                    <li><a href="/Architecture/contact">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Contact Form Section -->
+    <section id="contact">
+        <div class="container">
+            <h1 style="font-size: 50px; text-align: center;">Contact Us</h1>
+            <p style="font-size: 24px; text-align: center;">We would love to hear from you. Please reach out with your inquiries or project ideas, and we'll get back to you as soon as possible.</p>
+            <br>
+
+            <!-- Contact Form -->
+            <form id="contactForm" onsubmit="handleFormSubmit(event)">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required placeholder="Your Name">
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required placeholder="Your Email">
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required placeholder="Your Message"></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+            <div id="responseMessage" class="hidden"></div>
+        </div>
+    </section>
+
+    <!-- Location & Map Section -->
+    <!-- container class used for responsive layout -->
+    <section id="location">
+        <div class="container">
+            <h2 style="font-size: 40px;">Our Office</h2>
+            <p style="font-size: 26px;">Visit us at our office or contact us directly. We're here to assist you with our projects!</p>
+            <div id="map-container">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13463.937265989009!2d74.53311923304389!3d32.473111253870094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391ec1620654160b%3A0xb10ff0574d085d71!2sBismillah%20Pipe%20Store!5e0!3m2!1sen!2s!4v1734023907820!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="slow" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Media Section -->
+    <section id="social">
+        <div class="container">
+            <h2 style="font-size: 40px;">Follow Us</h2>
+            <p style="font-size: 24px;">Stay connected with us through our social media channels for the latest updates and projects.</p>
+            <span class="social-links">
+
+                <a href="https://www.facebook.com/share/18JiKdKa3C/" target="_blank"><img src="~/Images/facebook.png" alt="sorry" height="40px" width="40px" style="margin-right:135px;font-size: 23px;"></a>
+                <a href="https://www.instagram.com/invites/contact/?igsh=17lkl7l9zi6du&utm_content=ngghupm" target="_blank"><img src="~/Images/instagram .jpeg" alt="sorry" height="40px" width="40px" style="margin-right:135px;font-size: 23px;"></a>
+                <a href="https://www.linkedin.com/in/bisma-sehar-333925282" target="_blank"><img src="~/Images/linkdin.png" alt="sorry" height="40px" width="40px"></a>
+            </span>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Architect Vision. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
