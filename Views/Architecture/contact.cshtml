@@ -17,11 +17,15 @@
     <section id="contact">
         <div class="container">
             <h1 style="font-size: 50px; text-align: center;">Contact Us</h1>
-            <p style="font-size: 24px; text-align: center;">We would love to hear from you. Please reach out with your inquiries or project ideas, and we'll get back to you as soon as possible.</p>
-            <br>
+            <p style="font-size: 24px; text-align: center;">
+                
+                @ViewData["Response"]
+                @TempData["Alert"]
+                @ViewData["Message"]
+            </p>
 
             <!-- Contact Form -->
-            <form id="contactForm" onsubmit="handleFormSubmit(event)">
+            <form method="get" action="/Architecture/Contact" id="contactForm">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" required placeholder="Your Name">
 
@@ -33,9 +37,9 @@
 
                 <button type="submit">Send Message</button>
             </form>
-            <div id="responseMessage" class="hidden"></div>
         </div>
     </section>
+
 
     <!-- Location & Map Section -->
     <!-- container class used for responsive layout -->
