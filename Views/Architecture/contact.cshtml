@@ -14,32 +14,55 @@
     </header>
 
     <!-- Contact Form Section -->
+
+
     <section id="contact">
         <div class="container">
+            <!-- Contact Heading -->
             <h1 style="font-size: 50px; text-align: center;">Contact Us</h1>
-            <p style="font-size: 24px; text-align: center;">
-                
-                @ViewData["Response"]
-                @TempData["Alert"]
-                @ViewData["Message"]
-            </p>
+
+            <!-- Display Messages -->
+            @if (TempData["FormSubmitted"] == null)
+            {
+                <!-- Display form prompt only before submission -->
+                <p style="font-size: 24px; text-align: center; color: blue;">
+                    @ViewBag.Message
+                </p>
+            }
+            @if (TempData["Alert"] != null)
+            {
+                <p style="font-size: 20px; text-align: center; color: red;">
+                    @TempData["Alert"]
+                </p>
+            }
+            @if (ViewData["Response"] != null)
+            {
+                <p style="font-size: 20px; text-align: center; color: green;">
+                    @ViewData["Response"]
+                </p>
+            }
 
             <!-- Contact Form -->
-            <form method="get" action="/Architecture/Contact" id="contactForm">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required placeholder="Your Name">
+            @if (TempData["FormSubmitted"] == null)
+            {
+                <form method="post" action="/Architecture/Contact" id="contactForm">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required placeholder="Your Name">
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required placeholder="Your Email">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required placeholder="Your Email">
 
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" required placeholder="Your Message"></textarea>
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" required placeholder="Your Message"></textarea>
 
-                <button type="submit">Send Message</button>
-            </form>
+                    <button type="submit">Send Message</button>
+                </form>
+            }
         </div>
     </section>
 
+
+ 
 
     <!-- Location & Map Section -->
     <!-- container class used for responsive layout -->

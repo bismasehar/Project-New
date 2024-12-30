@@ -22,37 +22,35 @@ namespace Project_New.Controllers
             return View();
         }
 
-        [HttpGet]
-        public IActionResult Contact()
-        {
-            ViewBag.Message = "Please fill out the contact form.";
-            
-            return View();
-        }
 
-        // POST: /Architecture/Contact
-        [HttpPost]
-        public IActionResult Contact(string name, string email, string message)
-        {
-            ViewBag.Message = "Help";
-            ViewData["Message"] = "";
-            TempData["Message"] = "";
-            if (name == "Bisma" && email == "bismasehar203@gmail.com")
+        
+        
+            [HttpGet]
+            public IActionResult Contact()
             {
-                ViewBag.Message = "You have successfully logged into the system!";
-            }
-            else
-            {
-                ViewBag.Message = "Your email or username may not be correct!";
+                ViewBag.Message = "Please fill out the contact form.";
+                return View();
             }
 
-            // Use only one method for passing messages to the view
-            ViewData["Response"] = "This is a response message from ViewData.";
-            TempData["Alert"] = "Temporary alert for testing TempData.";
+            [HttpPost]
+            public IActionResult Contact(string name, string email, string message)
+            {
+                if (name == "Bisma" && email == "bismasehar203@gmail.com")
+                {
+                    ViewData["Response"] = "Your Message is Send Successfully!";
+                    //TempData["FormSubmitted"] = true; // To hide the form after submission
+                }
+                else
+                {
+                    TempData["Alert"] = "Your email or username may not be correct!";
+                    ViewData["Response"] = "Please try again.";
+                }
 
-            return View();
-       
-}
+                return View();
+            }
+        
+
+
         public IActionResult Education()
         {
             return View();
