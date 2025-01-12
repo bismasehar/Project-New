@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project_New
+build_property.RootNamespace = Project_New
+build_property.ProjectDir = D:\Semester 5\Web development\Project-New\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Semester 5\Web development\Project-New
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Semester 5/Web development/Project-New/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXGFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Commercial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXENvbW1lcmNpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXGNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXEVkdWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Hospitality.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXEhvc3BpdGFsaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXFByb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Public.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXFB1YmxpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Architecture/Residential.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXFJlc2lkZW50aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Tec/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Semester 5/Web development/Project-New/Views/Shared/_LayoutOld.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPbGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-arkcdskvbd

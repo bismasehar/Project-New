@@ -24,7 +24,7 @@
             <!-- Display Messages -->
             @if (TempData["FormSubmitted"] == null)
             {
-                <!-- Display form prompt only before submission -->
+                @* Display form prompt only before submission *@
                 <p style="font-size: 24px; text-align: center; color: blue;">
                     @ViewBag.Message
                 </p>
@@ -45,7 +45,7 @@
             <!-- Contact Form -->
             @if (TempData["FormSubmitted"] == null)
             {
-                <form method="post" action="/Architecture/Contact" id="contactForm">
+                <form method="post" action="/Architecture/contact" id="contactForm">
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required placeholder="Your Name">
 

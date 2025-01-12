@@ -1,0 +1,609 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project New.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project New.vx6f67x01f.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\A1.webp",
+      "PackagePath": "staticwebassets\\Images\\A1.webp"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\A2.avif",
+      "PackagePath": "staticwebassets\\Images\\A2.avif"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\A2.webp",
+      "PackagePath": "staticwebassets\\Images\\A2.webp"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\A3.jpg",
+      "PackagePath": "staticwebassets\\Images\\A3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\A6.webp",
+      "PackagePath": "staticwebassets\\Images\\A6.webp"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\A7.webp",
+      "PackagePath": "staticwebassets\\Images\\A7.webp"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP1.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP1.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP2.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP2.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP3.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP4.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP4.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP5.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP5.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP6.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP6.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP7.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP7.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP8.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP8.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\CP9.jpg",
+      "PackagePath": "staticwebassets\\Images\\CP9.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\D3.jpg",
+      "PackagePath": "staticwebassets\\Images\\D3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP1.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP1.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP2.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP2.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP3.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP4.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP4.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP5.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP5.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP6.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP6.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP7.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP7.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP8.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP8.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\EP9.jpg",
+      "PackagePath": "staticwebassets\\Images\\EP9.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP1.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP1.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP2.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP2.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP3.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP4.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP4.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP5.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP5.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP6.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP6.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP7.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP7.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP8.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP8.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\HP9.jpg",
+      "PackagePath": "staticwebassets\\Images\\HP9.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\Hospitality.html",
+      "PackagePath": "staticwebassets\\Images\\Hospitality.html"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\Masjid.jpg",
+      "PackagePath": "staticwebassets\\Images\\Masjid.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP1.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP1.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP2.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP2.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP3.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP4.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP4.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP5.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP5.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP6.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP6.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP7.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP7.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP8.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP8.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\PP9.jpg",
+      "PackagePath": "staticwebassets\\Images\\PP9.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP1.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP1.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP2.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP2.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP3.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP3.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP4.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP4.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP5.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP5.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP6.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP6.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP7.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP7.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP8.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP8.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\RP9.jpg",
+      "PackagePath": "staticwebassets\\Images\\RP9.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\S1.png",
+      "PackagePath": "staticwebassets\\Images\\S1.png"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\S2.png",
+      "PackagePath": "staticwebassets\\Images\\S2.png"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\S3.png",
+      "PackagePath": "staticwebassets\\Images\\S3.png"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\award-ceremony.jpg",
+      "PackagePath": "staticwebassets\\Images\\award-ceremony.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\blue.jpg",
+      "PackagePath": "staticwebassets\\Images\\blue.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\collaboration.jpg",
+      "PackagePath": "staticwebassets\\Images\\collaboration.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\excellence.jpg",
+      "PackagePath": "staticwebassets\\Images\\excellence.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\facebook.png",
+      "PackagePath": "staticwebassets\\Images\\facebook.png"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\girls.icon.png",
+      "PackagePath": "staticwebassets\\Images\\girls.icon.png"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\handshake.jpg",
+      "PackagePath": "staticwebassets\\Images\\handshake.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\header-image.jpg",
+      "PackagePath": "staticwebassets\\Images\\header-image.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\heri.jpg",
+      "PackagePath": "staticwebassets\\Images\\heri.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\home.html",
+      "PackagePath": "staticwebassets\\Images\\home.html"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\innovation.jpg",
+      "PackagePath": "staticwebassets\\Images\\innovation.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\instagram .jpeg",
+      "PackagePath": "staticwebassets\\Images\\instagram .jpeg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\lapita hotel.jpg",
+      "PackagePath": "staticwebassets\\Images\\lapita hotel.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\linkdin.png",
+      "PackagePath": "staticwebassets\\Images\\linkdin.png"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\occean.jpg",
+      "PackagePath": "staticwebassets\\Images\\occean.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\pexels-achintya-bala-254696368-12555737.jpg",
+      "PackagePath": "staticwebassets\\Images\\pexels-achintya-bala-254696368-12555737.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\pics.jpg",
+      "PackagePath": "staticwebassets\\Images\\pics.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\premium_photo.jpg",
+      "PackagePath": "staticwebassets\\Images\\premium_photo.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\sustainability.jpg",
+      "PackagePath": "staticwebassets\\Images\\sustainability.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\sustainable-building.jpg",
+      "PackagePath": "staticwebassets\\Images\\sustainable-building.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\team-member1.jpg",
+      "PackagePath": "staticwebassets\\Images\\team-member1.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\team-member2.jpg.jpeg",
+      "PackagePath": "staticwebassets\\Images\\team-member2.jpg.jpeg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\team-working.jpeg",
+      "PackagePath": "staticwebassets\\Images\\team-working.jpeg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\water (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\water (2).jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\Images\\water.jpg",
+      "PackagePath": "staticwebassets\\Images\\water.jpg"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\css2\\styles.css",
+      "PackagePath": "staticwebassets\\css2\\styles.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\js2\\script.js",
+      "PackagePath": "staticwebassets\\js2\\script.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Semester 5\\Web development\\Project-New\\wwwroot\\settings.json",
+      "PackagePath": "staticwebassets\\settings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project New.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project New.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project New.props",
+      "PackagePath": "build\\Project New.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project New.props",
+      "PackagePath": "buildMultiTargeting\\Project New.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project New.props",
+      "PackagePath": "buildTransitive\\Project New.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
